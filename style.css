@@ -1,0 +1,155 @@
+body{
+    font-family: 'Poppins';
+    background-color:#E5E5E5;
+    align-items: center;
+    height: 1220px;
+    width: 1440px;
+    left: 760px;
+    top: -479px;
+    border-radius: 0px;
+
+}
+.players{
+    display: flex;
+    font-size: small;
+
+}
+.players img{
+    width: 56px;
+    height: 56px;
+   
+    margin-right: 16px;
+    margin-bottom: 29px;
+}
+
+#c1-fisrt-block{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+   
+}
+#first-container{
+    width: 870px;
+    height: 650px;
+    position: relative;
+    Top: 130px;
+    left: 285px;
+    border-radius: 5px; 
+    background-color: white;
+    padding: 40px;
+    
+}
+.content-title{
+    
+    color: #562EFF;
+    font-weight: 700;
+    font-size: 24px;
+    padding-bottom: 10px;
+}
+
+
+.blog img{
+    height: 117px;
+    width: 177px;
+    left: 315px;
+    top: 507px;
+    border-radius: [object Object]px;
+}
+.thumbnail img{
+    height: 117px;
+    width: 177px;
+    left: 315px;
+    top: 507px;
+    border-radius: [object Object]px;
+}
+.artical-texts{
+    height: 68px;
+    width: 164px;
+    left: 508px;
+    top: 507px;
+    border-radius: nullpx;
+    margin-left: 16px;
+    margin-top: 8px;
+    
+    
+}
+article{
+    display: flex;
+    margin-bottom: 25px;
+}
+.blog-title{
+    margin: 0%;
+}
+#c1-second-block{
+    display: grid;
+    grid-template-columns: repeat(2 ,1fr); 
+}
+.blog-author{
+    color: lightslategray;
+}
+#second-container{
+    width: 870px;
+    height: 350px;
+    position: relative;
+    Top: 130px;
+    left: 285px;
+    border-radius: 5px; 
+    background-color: white;
+    padding: 40px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.course{
+    height: 269.7856750488281px;
+    width: 252.4232177734375px;
+    left: 313px;
+    top: 900px;
+    border-radius: 0px;
+    padding: 6px;
+    padding-left: 0pc;
+    
+   
+
+}
+.course img{
+    height: 104px;
+    width: 224px;
+    left: 324px;
+    top: 913px;
+    border-radius: [object Object]px;
+}
+.artical-texts h3{
+    margin: 0%;
+}
+.star{
+    color: gold;
+}
+.clock img{
+    height: 20.0px;
+    width: 20.0px;
+    border-radius: 0px;
+    margin-top: 2px;
+    margin-left: 8px;
+}
+.clock{
+    display: flex;
+    background-color: #FFE4E8;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.clock h2{
+    height: 20px;
+    width: 57px;
+    border-radius: nullpx;
+    font-size: small;
+    margin: 0%;
+    margin-left: 8px;
+    margin-top: 3px;
+    color: #FF4A60;
+}
+.rating-and-clock{
+    display: flex;
+}
+.c2-block{
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+}
